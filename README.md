@@ -1,4 +1,4 @@
-Htvc
+Lunar Calendar
 ====
 
-Ho chi minh Television Chanel 
+Vietnamese Lunar Calendar
